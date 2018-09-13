@@ -51,5 +51,5 @@
   * 真心话
   * 为对方做一件事
 
-[报名情况](signUp.md)  
-[成果情况](relust.md)  
+[报名情况](signUp)  
+[成果情况](relust)  
